@@ -1,6 +1,6 @@
-//# Desafio da semana #3
+# Desafio da semana #3
 
-//```js
+```js
 // Declarar uma variável qualquer, que receba um objeto vazio.
 var objEmpty = {};
 
@@ -220,4 +220,4 @@ pessoa.apresentação = function () {
 // Agora, apresente-se ;)
 
 console.log(pessoa.apresentação()); // Olá, eu sou o Tiago Damasceno, tenho 40 anos, 1.74m, meu peso é 95kg e, só hoje, eu já caminhei 180 metros!
-//```
+```
